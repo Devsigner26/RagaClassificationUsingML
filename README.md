@@ -44,3 +44,22 @@ Or:
 ![Confusion Matrix](RFC.png)
 
 > The model shows good separation between common ragas like Bhairav and Yaman. Future improvements can focus on rarer ragas with fewer data points.
+
+## 🚀 Future Enhancements
+
+- 🎶 Expand model to support *Carnatic* and *semi-classical* ragas
+- 🌐 Deploy the classifier as a *web app* using *Streamlit* or *Flask*
+- 📈 Improve model accuracy by using *deep learning* (e.g., CNNs for spectrograms)
+- 🎵 Include *audio previews* of each predicted raga
+- 🧠 Add *explainability* using SHAP or LIME for predictions
+
+## 🙋‍♂️ Author
+
+*Srinjoy Ghosh*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/srinjoyghosh26)  
+- 💻 [GitHub](https://github.com/Devsigner26)  
+- 📧 srinjoyghosh260203@gmail.com
+
+## 📜 License
+
+This project is licensed under the *MIT License* – see the [LICENSE](./LICENSE) file for details.

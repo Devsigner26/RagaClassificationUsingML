@@ -41,6 +41,6 @@ Or:
 - *Precision / Recall / F1*: (0.99/ 0.98/ 0.99)
 - *Confusion Matrix*:
 
-![Confusion Matrix](RFC.jpg)
+![Confusion Matrix](RFC.png)
 
 > The model shows good separation between common ragas like Bhairav and Yaman. Future improvements can focus on rarer ragas with fewer data points.
